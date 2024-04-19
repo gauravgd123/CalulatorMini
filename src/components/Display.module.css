@@ -1,6 +1,5 @@
-.display{
-    width: 250px;
-    margin: 45px;
-    height: 60px;
-    
-}
+.display {
+    margin: 10px;
+    width: 175px;
+    font-size: 25px;
+  }
